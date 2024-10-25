@@ -3,5 +3,11 @@ body{
 background: linear-gradient(90deg, rgba(2,0,36,1) 14%, rgba(9,9,121,1) 38%, rgba(9,18,127,1) 53%, rgba(0,212,255,1) 74%);
 }
 div{
-    
+    background-color: white;
+    display: flex;
+    height: 29vw;
+    width: 30vw;
+    flex-direction: column;
+    align-items: center;
+    margin-left: 20px;
 }
