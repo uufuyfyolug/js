@@ -1,0 +1,10 @@
+div{
+    width:500px; /* box retangular */
+    height:8em;  /* box retangular */
+  /* ou */
+    width:200px; /* box quadrado */
+    height:200px;  /* box quadrado */
+    background-color: blue;
+    background-image: linear-gradient( /* parâmetros */ );
+  }
+  div { background-image: linear-gradient( to right, red -20%, green, yellow, blue ); }
